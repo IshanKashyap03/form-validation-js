@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 10px;
+}
+
+.submit-btn{
+    margin-top: 20px;
+}
+
+.error{
+    color: red;
+}
